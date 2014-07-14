@@ -1,0 +1,8 @@
+[package]
+name = "kernel"
+version = "0.0.0"
+authors = [ "alexchandel@gmail.com" ]
+
+[[lib]]
+name = "kernel"
+path = "src/lib.rs"
